@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 47da8174e52be9d44bac28cc5c1e193e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Cartoonist
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d4bd3e00085dc6e4891410900ea6c798, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
